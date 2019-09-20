@@ -15,7 +15,7 @@ import torch.nn.functional as F
 from torch import nn
 from torch.autograd import Variable
 from scipy import sparse
-from models.utils import *
+#from models.utils import *
 
 
 class Model(nn.Module):
